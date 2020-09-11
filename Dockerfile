@@ -1,4 +1,3 @@
-# 将官方 Python 运行时用作父镜像
 FROM ubuntu:18.04
 ENV LANG C.UTF-8
 
